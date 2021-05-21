@@ -26,7 +26,11 @@ npm start
   * Destroy a record using DELETE
 
 * Endpoint: 
+
+
 **npm start**
+
+
     * /api/v1/food : json object
           [
           {
@@ -35,7 +39,11 @@ npm start
             "size": "l",
             }
            ]
- * /api/v1/clothes : json object 
+           
+           
+           
+           
+     * /api/v1/clothes : json object 
         [
           {
            "_id": "60a65f8c4839a32019dd4857",
