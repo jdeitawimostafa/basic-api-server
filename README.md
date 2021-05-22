@@ -1,6 +1,8 @@
 # basic-api-server
 
 
+
+
 [deployment](https://basic-api-server-jdeitawi.herokuapp.com/)
 
 [PR](https://github.com/jdeitawimostafa/basic-api-server/pull/1)
@@ -51,6 +53,14 @@ npm start
             "size": "L",
             }
            ]  
+           
+           
+           
+   ##**UML Diagram**
+   
+   
+   
+  ![umlDiagram](lab3.PNG)
  
 
 ***Thank you!!***
